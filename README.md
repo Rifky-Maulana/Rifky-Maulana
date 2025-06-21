@@ -23,6 +23,14 @@
   ini deskripsi  
   🔗 [GitHub](https://github.com/Rifky-Maulana/Sistem_Rekomendasi)
 
+- **Analisis Sentiment dan prediksi ulasan**  
+  ini deskripsi  
+  🔗 [GitHub](https://github.com/Rifky-Maulana/Analisis_Sentimen_pinterest)
+
+- **Prediksi gambar buah**  
+  ini deskripsi  
+  🔗 [GitHub](https://github.com/Rifky-Maulana/Klasifikasi_gambar_buah)
+
 ### 📊 Data Visualization & Analysis
 - **Bike penjualan analisis**  
     ini deskripsi
