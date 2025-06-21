@@ -1,59 +1,70 @@
 # Hi, I'm Rifky 👋
 
-🎓 I'm a student of D3 Informatics Management at Politeknik Negeri Medan  
-💡 Passionate in Data Science, Data Analysis, and Machine Learning  
-🚀 Currently a trainee in the Laskar AI Scholarship Program  
-🔧 Tools: Python, Pandas, Scikit-learn, TensorFlow, Docker, Supabase, Metabase, MLflow  
-📫 Reach me: rifky@example.com | [LinkedIn](https://www.linkedin.com/in/rifky-maulana-pasaribu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+🎓 I'm a D3 Informatics Management student at **Politeknik Negeri Medan**  
+💡 Passionate about **Data Science**, **Data Analysis**, and **Machine Learning**  
+🚀 Currently a trainee in the **Laskar AI Scholarship Program** (until August 1st)  
+🔧 Tools & Technologies: Python, Pandas, Scikit-learn, TensorFlow, Docker, Supabase, Metabase, MLflow  
+📫 Contact: rifkymp0@gmail.com | [LinkedIn](https://www.linkedin.com/in/rifky-maulana-pasaribu)
 
 ---
 
 ## 🔬 Projects
 
 ### 🧠 Machine Learning Projects
-- **Membangun sistem Machine Learning (mlops)**  
-  ini deskripsi  
-  🔗 [GitHub](https://github.com/Rifky-Maulana/data-science-2)
+- **Machine Learning System (MLOps)**  
+  A complete ML pipeline with monitoring and deployment using MLflow and Docker.  
+  🔗 [GitHub](https://github.com/Rifky-Maulana/SMSML_Rifky_Maulana_Pasaribu)
 
-- **Prediksi depresi mahasiswa**  
-  ini deskripsi  
+- **Student Depression Prediction**  
+  A classification model to predict the risk of depression in students based on survey data.  
   🔗 [GitHub](https://github.com/Rifky-Maulana/Depresi_mahasiswa)
 
-- **Sistem Rekomendasi film**  
-  ini deskripsi  
+- **Movie Recommendation System**  
+  A content-based recommendation engine to suggest movies based on user preferences.  
   🔗 [GitHub](https://github.com/Rifky-Maulana/Sistem_Rekomendasi)
 
-- **Analisis Sentiment dan prediksi ulasan**  
-  ini deskripsi  
+- **Sentiment Analysis and Review Prediction (Pinterest)**  
+  Natural Language Processing project to analyze and predict user review sentiments.  
   🔗 [GitHub](https://github.com/Rifky-Maulana/Analisis_Sentimen_pinterest)
 
-- **Prediksi gambar buah**  
-  ini deskripsi  
+- **Fruit Image Classification**  
+  Deep learning model using CNN to classify fruit images.  
   🔗 [GitHub](https://github.com/Rifky-Maulana/Klasifikasi_gambar_buah)
 
+- **Beverage Sales Clustering**  
+  A K-Means clustering project to segment beverage sales data.  
+  🔗 [Google Drive](https://drive.google.com/drive/folders/1z-UdjOYi8CSsJgg5FUU24SS_NN5xhXcC?usp=drive_link)
+
 ### 📊 Data Visualization & Analysis
-- **Bike penjualan analisis**  
-    ini deskripsi
+- **Bike Sales Dashboard**  
+  An interactive dashboard built with Streamlit to analyze bike sales data.  
   🔗 [GitHub](https://github.com/Rifky-Maulana/streamlit-bike-dashboard_1)
 
-- **Attrition Analysis di jaya jaya maju perusahaan**  
-    ini deskripsi
+- **Employee Attrition Analysis – PT Jaya Jaya Maju**  
+  A data analysis project to identify key factors in employee attrition using visual analytics.  
   🔗 [GitHub](https://github.com/Rifky-Maulana/data-science-1)
 
-- **university dropout analisis**  
-    ini deskripsi
+- **University Dropout Analysis**  
+  Exploratory data analysis to understand the reasons behind student dropouts.  
   🔗 [GitHub](https://github.com/Rifky-Maulana/data-science-2)
+
 ---
 
 ## 🧰 Skills
 
-- **Languages**: Python, SQL, HTML, CSS
-- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
-- **Tools**: Jupyter, MLflow, Supabase, Metabase, Docker, Git
+- **Languages**: Python, SQL, HTML, CSS, PHP  
+- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow  
+- **Tools & Platforms**: Jupyter Notebook, MLflow, Supabase, Metabase, Docker, Git, Tableau, Looker Studio  
 
 ---
 
 ## 📜 Certificates & Trainings
-- Laskar AI – AI Scholarship Program (Ongoing)
-- Data Science Fundamentals – Dicoding
 
+📁 [View All Certificates on Google Drive](https://drive.google.com/drive/folders/1IE0cePdUoLkxP4qiwt8skkPfxJt229Bb?usp=sharing)
+
+- **Laskar AI Scholarship Program** 
+
+---
+
+> Thank you for visiting my portfolio!  
+> I'm open to collaborations, internships, or any opportunity related to data and AI. Feel free to connect!
