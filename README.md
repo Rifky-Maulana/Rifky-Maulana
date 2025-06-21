@@ -11,13 +11,17 @@
 ## 🔬 Projects
 
 ### 🧠 Machine Learning Projects
-- **House Price Prediction**  
-  A regression model using Random Forest to predict housing prices.  
-  🔗 [GitHub]()
+- **Membangun sistem Machine Learning (mlops)**  
+  ini deskripsi  
+  🔗 [GitHub](https://github.com/Rifky-Maulana/data-science-2)
 
-- **Breast Cancer Classification**  
-  Classification model built using logistic regression and decision tree classifiers.  
-  🔗 [GitHub](https://github.com/rifkymaulana/cancer-classification)
+- **Prediksi depresi mahasiswa**  
+  ini deskripsi  
+  🔗 [GitHub](https://github.com/Rifky-Maulana/Depresi_mahasiswa)
+
+- **Sistem Rekomendasi film**  
+  ini deskripsi  
+  🔗 [GitHub](https://github.com/Rifky-Maulana/Sistem_Rekomendasi)
 
 ### 📊 Data Visualization & Analysis
 - **Bike penjualan analisis**  
