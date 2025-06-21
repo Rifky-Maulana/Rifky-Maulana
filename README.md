@@ -4,7 +4,7 @@
 💡 Passionate in Data Science, Data Analysis, and Machine Learning  
 🚀 Currently a trainee in the Laskar AI Scholarship Program  
 🔧 Tools: Python, Pandas, Scikit-learn, TensorFlow, Docker, Supabase, Metabase, MLflow  
-📫 Reach me: rifky@example.com | [LinkedIn](https://linkedin.com/in/namamu) | [GitHub](https://github.com/namamu)
+📫 Reach me: rifky@example.com | [LinkedIn](https://www.linkedin.com/in/rifky-maulana-pasaribu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
 ---
 
@@ -13,17 +13,24 @@
 ### 🧠 Machine Learning Projects
 - **House Price Prediction**  
   A regression model using Random Forest to predict housing prices.  
-  🔗 [GitHub](https://github.com/rifkymaulana/house-price-prediction)
+  🔗 [GitHub]()
 
 - **Breast Cancer Classification**  
   Classification model built using logistic regression and decision tree classifiers.  
   🔗 [GitHub](https://github.com/rifkymaulana/cancer-classification)
 
 ### 📊 Data Visualization & Analysis
-- **Energy Dashboard**  
-  Dashboard for energy consumption using Metabase and Supabase.  
-  🔗 [GitHub](https://github.com/rifkymaulana/energy-dashboard)
+- **Bike penjualan analisis**  
+    ini deskripsi
+  🔗 [GitHub](https://github.com/Rifky-Maulana/streamlit-bike-dashboard_1)
 
+- **Attrition Analysis di jaya jaya maju perusahaan**  
+    ini deskripsi
+  🔗 [GitHub](https://github.com/Rifky-Maulana/data-science-1)
+
+- **university dropout analisis**  
+    ini deskripsi
+  🔗 [GitHub](https://github.com/Rifky-Maulana/data-science-2)
 ---
 
 ## 🧰 Skills
