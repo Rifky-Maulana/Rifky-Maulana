@@ -148,21 +148,30 @@
 
 ---
 
-## 🏆 **Achievements & Certifications**
+## 🏆 **Achievements & Recognition**
 
-<div align="center">
 
-🎖️ **Laskar AI Scholarship Program** - *Active Participant*  
-📜 [**View All Certificates**](https://drive.google.com/drive/folders/1IE0cePdUoLkxP4qiwt8skkPfxJt229Bb?usp=sharing)
+### 📜 **Certifications Portfolio**
+[![View All Certificates](https://img.shields.io/badge/View_All_Certificates-FFD700?style=for-the-badge&logo=certificate&logoColor=black)](https://drive.google.com/drive/folders/1IE0cePdUoLkxP4qiwt8skkPfxJt229Bb?usp=sharing)
 
-</div>
+### 🎖️ **Current Programs**
+
+**🚀 Laskar AI Scholarship Program**
+- 📅 **Duration**: Until August 1st, 2025
+- 🎯 **Focus**: Advanced ML Techniques
+- 🏗️ **Skills**: MLOps Implementation
+- 🤝 **Experience**: Industry Collaboration
+
 
 ---
 
-## 📈 **GitHub Stats**
+## 📈 **GitHub Analytics**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rifky-maulana&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rifky-maulana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifky-maulana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
