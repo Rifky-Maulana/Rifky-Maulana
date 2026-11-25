@@ -1,199 +1,129 @@
-# 👋 Hello, I'm **Rifky Maulana Pasaribu**
-
 <div align="center">
+
+# Hi, I'm Rifky Maulana Pasaribu 👋
+
+### Data Analyst & Data Scientist · Open for Freelance
+
+I turn messy business data into clean reports, dashboards, and models that people actually use.
+
+[![Open for Freelance](https://img.shields.io/badge/Open_for-Freelance_Projects-2ea44f?style=for-the-badge)](mailto:rifkymp0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifky-maulana-pasaribu)
+[![Email](https://img.shields.io/badge/Email-rifkymp0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifkymp0@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rifky-maulana&color=blueviolet&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifky-maulana-pasaribu)
-[![Email](https://img.shields.io/badge/Email-rifkymp0@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rifkymp0@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 **About Me**
+## 🙋 About Me
 
-🎓 **D3 Informatics Management Student** at **Politeknik Negeri Medan**  
-🔬 **Data Enthusiast** passionate about turning data into actionable insights  
-🤖 **AI Explorer** diving deep into Machine Learning and Data Science  
-⚡ **Current Mission**: Trainee in **Laskar AI Scholarship Program** *(until August 1st)*
-
-> *"Transforming raw data into meaningful stories and intelligent solutions"*
+- 📊 Data analyst with hands-on experience building **internal business systems** — I know where the data comes from, not just how to chart it
+- 🤖 Background in **machine learning & MLOps** (Laskar AI Scholarship Program, 2025)
+- 🎓 D3 Informatics Management, **Politeknik Negeri Medan**
+- 🔨 Currently building: an end-to-end **e-commerce analytics dashboard** (Olist dataset, Power BI)
 
 ---
 
-## <div align="center">🛠️ **Technology Stack**</div>
+## 💼 What I Can Help You With
+
+| Service | What you get |
+|---|---|
+| 🧹 **Data Cleaning & Excel Automation** | Messy spreadsheets turned into clean, consistent data — with formulas and templates your team can reuse |
+| 📈 **Dashboards & Reporting** | Sales, stock, or operations dashboards in Power BI, Looker Studio, or Streamlit |
+| 🔍 **Data Analysis** | Answers to real business questions: trends, segmentation, forecasting, written up clearly |
+| 🤖 **Machine Learning Models** | Classification, recommendation, and NLP models — from notebook to deployment |
+| 🌐 **Small Business Web Apps** | Simple internal tools for attendance, orders, invoices, and stock |
+
+---
+
+## 🛠️ Tech Stack
+
+**Data & Analytics**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Machine Learning**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**Web & Tools**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🏢 Real-World Work
+
+*Built for a company — source code is private.*
+
+- **Sales Management System** — web app in daily use for sales attendance with GPS map check-in, orders, invoices, and stock tracking
+- **Warehouse System** — stock and warehouse management
+- **Business Analysis** — commodity price analysis (nickel & stainless steel) and product demand estimates to support purchasing decisions
+
+---
+
+## 🎯 Featured Projects
+
+### 📊 Data Analytics
+
+| Project | Description | Tools |
+|---|---|---|
+| [👥 Employee Attrition Analysis](https://github.com/Rifky-Maulana/data-science-1) | Finding the factors behind employee turnover, with a business dashboard | Python, Pandas |
+| [🎓 Student Dropout Analysis](https://github.com/Rifky-Maulana/data-science-2) | Identifying students at risk of dropping out | Python, Pandas |
+| [🚴 Bike Sharing Dashboard](https://github.com/Rifky-Maulana/streamlit-bike-dashboard_1) | Interactive dashboard exploring rental patterns | Streamlit, Pandas |
+| [🥤 Beverage Sales Clustering](https://drive.google.com/drive/folders/1z-UdjOYi8CSsJgg5FUU24SS_NN5xhXcC?usp=drive_link) | Customer segmentation with K-Means | Python, K-Means |
+
+### 🤖 Machine Learning
+
+| Project | Description | Tools |
+|---|---|---|
+| [🔄 MLOps Pipeline](https://github.com/Rifky-Maulana/SMSML_Rifky_Maulana_Pasaribu) | Model training, tracking, versioning, and monitoring | MLflow, Docker |
+| [🧘 Student Depression Prediction](https://github.com/Rifky-Maulana/Depresi_mahasiswa) | Classifying students' mental health risk | Scikit-learn |
+| [🎬 Movie Recommendation System](https://github.com/Rifky-Maulana/Sistem_Rekomendasi) | Content-based recommendation engine | Python |
+| [📱 Pinterest Review Sentiment](https://github.com/Rifky-Maulana/Analisis_Sentimen_pinterest) | Sentiment classification of app reviews | Python, NLP |
+| [🍎 Fruit Image Classifier](https://github.com/Rifky-Maulana/Klasifikasi_gambar_buah) | Multi-class fruit recognition with CNN | TensorFlow, Keras |
+
+---
+
+## 🏆 Certifications
+
+[![View All Certificates](https://img.shields.io/badge/View_All_Certificates-FFD700?style=for-the-badge&logoColor=black)](https://drive.google.com/drive/folders/1IE0cePdUoLkxP4qiwt8skkPfxJt229Bb?usp=sharing)
+
+- 🚀 **Laskar AI Scholarship Program** (2025) — Machine Learning & MLOps
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-### **💻 Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **🤖 Data Science & Machine Learning**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### **⚙️ Tools & Platforms**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-</div>
----
-
-## 🎯 **Featured Projects**
-
-### 🧠 **Machine Learning & AI**
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🔄 **MLOps Pipeline System**
-*Complete ML pipeline with monitoring & deployment*
-- **Tech**: MLflow, Docker, Python
-- **Features**: Model versioning, automated deployment
-- [🔗 **Explore Code**](https://github.com/Rifky-Maulana/SMSML_Rifky_Maulana_Pasaribu)
-
-</td>
-<td width="50%">
-
-#### 🧘 **Student Depression Predictor**
-*AI-powered mental health risk assessment*
-- **Tech**: Scikit-learn, Pandas
-- **Impact**: Early intervention for student wellbeing
-- [🔗 **View Project**](https://github.com/Rifky-Maulana/Depresi_mahasiswa)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🎬 **Movie Recommendation Engine**
-*Personalized content discovery system*
-- **Tech**: Content-based filtering, Python
-- **Features**: Smart recommendation algorithm
-- [🔗 **Try Demo**](https://github.com/Rifky-Maulana/Sistem_Rekomendasi)
-
-</td>
-<td width="50%">
-
-#### 📱 **Pinterest Sentiment Analyzer**
-*NLP-powered review sentiment prediction*
-- **Tech**: Natural Language Processing
-- **Accuracy**: High-performance text classification
-- [🔗 **See Results**](https://github.com/Rifky-Maulana/Analisis_Sentimen_pinterest)
-
-</td>
-</tr>
-</table>
-
-### 🍎 **Computer Vision & Deep Learning**
-
-#### 🖼️ **Fruit Image Classifier**
-*CNN-based fruit recognition system*
-- **Architecture**: Convolutional Neural Networks
-- **Dataset**: Multi-class fruit images
-- [🔗 **View Model**](https://github.com/Rifky-Maulana/Klasifikasi_gambar_buah)
-
-### 📊 **Data Analytics & Visualization**
-
-<table>
-<tr>
-<td width="33%">
-
-#### 🚴 **Bike Sales Dashboard**
-*Interactive Streamlit analytics*
-- Real-time data insights
-- [🔗 **Live Demo**](https://github.com/Rifky-Maulana/streamlit-bike-dashboard_1)
-
-</td>
-<td width="33%">
-
-#### 👥 **Employee Attrition Analysis**
-*HR analytics for PT Jaya Jaya Maju*
-- Predictive workforce insights
-- [🔗 **Case Study**](https://github.com/Rifky-Maulana/data-science-1)
-
-</td>
-<td width="33%">
-
-#### 🎓 **University Dropout Study**
-*Educational data exploration*
-- Student retention insights
-- [🔗 **Research**](https://github.com/Rifky-Maulana/data-science-2)
-
-</td>
-</tr>
-</table>
-
-#### 🥤 **Beverage Sales Clustering**
-*K-Means customer segmentation analysis*
-- **Method**: Unsupervised learning clustering
-- **Outcome**: Market segmentation insights
-- [🔗 **View Analysis**](https://drive.google.com/drive/folders/1z-UdjOYi8CSsJgg5FUU24SS_NN5xhXcC?usp=drive_link)
-
----
-
-## 🏆 **Achievements & Recognition**
-
-
-### 📜 **Certifications Portfolio**
-[![View All Certificates](https://img.shields.io/badge/View_All_Certificates-FFD700?style=for-the-badge&logo=certificate&logoColor=black)](https://drive.google.com/drive/folders/1IE0cePdUoLkxP4qiwt8skkPfxJt229Bb?usp=sharing)
-
-### 🎖️ **Current Programs**
-
-**🚀 Laskar AI Scholarship Program**
-- 📅 **Duration**: Until August 1st, 2025
-- 🎯 **Focus**: Advanced ML Techniques
-- 🏗️ **Skills**: MLOps Implementation
-- 🤝 **Experience**: Industry Collaboration
-
-
----
-
-## 📈 **GitHub Analytics**
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rifky-maulana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifky-maulana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rifky-maulana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifky-maulana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🤝 **Let's Connect & Collaborate!**
-
 <div align="center">
 
-### *I'm always excited about new opportunities in:*
-🔬 **Data Science Projects** | 🤖 **Machine Learning Research** | 📊 **Analytics Consulting** | 🚀 **AI Innovation**
+### 🤝 Have data that needs sorting out? Let's talk.
 
----
-
-**Ready to turn data into impact?** Let's build something amazing together! 
-
+[![Email me](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifkymp0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifky-maulana-pasaribu)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifkymp0@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-<i>⭐ If you find my work interesting, don't forget to star my repositories! ⭐</i>
 </div>
