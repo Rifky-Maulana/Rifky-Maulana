@@ -54,54 +54,15 @@ I turn messy business data into forecasts, analyses, and dashboards that drive r
 
 <img src="assets/h4.svg" alt="IV. Tech Stack" height="44"/>
 
-**Data & Analytics**
+<img src="assets/stack1.svg" alt="Data & Analytics" width="100%"/>
 
-![Python](https://img.shields.io/badge/Python-0b1d4d?style=for-the-badge&logo=python&logoColor=7fd0ff&labelColor=050a1f)
-![SQL](https://img.shields.io/badge/SQL-0b1d4d?style=for-the-badge&logo=mysql&logoColor=7fd0ff&labelColor=050a1f)
-![Pandas](https://img.shields.io/badge/Pandas-0b1d4d?style=for-the-badge&logo=pandas&logoColor=7fd0ff&labelColor=050a1f)
-![NumPy](https://img.shields.io/badge/NumPy-0b1d4d?style=for-the-badge&logo=numpy&logoColor=7fd0ff&labelColor=050a1f)
-![Excel](https://img.shields.io/badge/Excel-0b1d4d?style=for-the-badge&logo=microsoftexcel&logoColor=7fd0ff&labelColor=050a1f)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-0b1d4d?style=for-the-badge&logo=googlesheets&logoColor=7fd0ff&labelColor=050a1f)
-![Power BI](https://img.shields.io/badge/Power_BI-0b1d4d?style=for-the-badge&logo=powerbi&logoColor=7fd0ff&labelColor=050a1f)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-0b1d4d?style=for-the-badge&logo=looker&logoColor=7fd0ff&labelColor=050a1f)
-![Streamlit](https://img.shields.io/badge/Streamlit-0b1d4d?style=for-the-badge&logo=streamlit&logoColor=7fd0ff&labelColor=050a1f)
-![Jupyter](https://img.shields.io/badge/Jupyter-0b1d4d?style=for-the-badge&logo=jupyter&logoColor=7fd0ff&labelColor=050a1f)
+<img src="assets/stack2.svg" alt="Data Platforms & Databases" width="100%"/>
 
-**Data Platforms & Databases**
+<img src="assets/stack3.svg" alt="Automation" width="100%"/>
 
-![Snowflake](https://img.shields.io/badge/Snowflake-0b1d4d?style=for-the-badge&logo=snowflake&logoColor=7fd0ff&labelColor=050a1f)
-![BigQuery](https://img.shields.io/badge/BigQuery-0b1d4d?style=for-the-badge&logo=googlebigquery&logoColor=7fd0ff&labelColor=050a1f)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1d4d?style=for-the-badge&logo=postgresql&logoColor=7fd0ff&labelColor=050a1f)
-![MySQL](https://img.shields.io/badge/MySQL-0b1d4d?style=for-the-badge&logo=mysql&logoColor=7fd0ff&labelColor=050a1f)
-![Supabase](https://img.shields.io/badge/Supabase-0b1d4d?style=for-the-badge&logo=supabase&logoColor=7fd0ff&labelColor=050a1f)
-![dbt](https://img.shields.io/badge/dbt-0b1d4d?style=for-the-badge&logo=dbt&logoColor=7fd0ff&labelColor=050a1f)
-![Apache Airflow](https://img.shields.io/badge/Airflow-0b1d4d?style=for-the-badge&logo=apacheairflow&logoColor=7fd0ff&labelColor=050a1f)
+<img src="assets/stack4.svg" alt="AI & Machine Learning" width="100%"/>
 
-**Automation**
-
-![n8n](https://img.shields.io/badge/n8n-0b1d4d?style=for-the-badge&logo=n8n&logoColor=7fd0ff&labelColor=050a1f)
-![Make](https://img.shields.io/badge/Make-0b1d4d?style=for-the-badge&logo=make&logoColor=7fd0ff&labelColor=050a1f)
-![Zapier](https://img.shields.io/badge/Zapier-0b1d4d?style=for-the-badge&logo=zapier&logoColor=7fd0ff&labelColor=050a1f)
-![Apps Script](https://img.shields.io/badge/Apps_Script-0b1d4d?style=for-the-badge&logo=google&logoColor=7fd0ff&labelColor=050a1f)
-![REST APIs & Webhooks](https://img.shields.io/badge/REST_APIs_&_Webhooks-0b1d4d?style=for-the-badge&logo=postman&logoColor=7fd0ff&labelColor=050a1f)
-
-**AI & Machine Learning**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0b1d4d?style=for-the-badge&logo=openai&logoColor=7fd0ff&labelColor=050a1f)
-![Claude](https://img.shields.io/badge/Claude_API-0b1d4d?style=for-the-badge&logo=anthropic&logoColor=7fd0ff&labelColor=050a1f)
-![Gemini](https://img.shields.io/badge/Gemini_API-0b1d4d?style=for-the-badge&logo=googlegemini&logoColor=7fd0ff&labelColor=050a1f)
-![LangChain](https://img.shields.io/badge/LangChain-0b1d4d?style=for-the-badge&logo=langchain&logoColor=7fd0ff&labelColor=050a1f)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0b1d4d?style=for-the-badge&logo=huggingface&logoColor=7fd0ff&labelColor=050a1f)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0b1d4d?style=for-the-badge&logo=scikit-learn&logoColor=7fd0ff&labelColor=050a1f)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0b1d4d?style=for-the-badge&logo=tensorflow&logoColor=7fd0ff&labelColor=050a1f)
-![Keras](https://img.shields.io/badge/Keras-0b1d4d?style=for-the-badge&logo=keras&logoColor=7fd0ff&labelColor=050a1f)
-![OpenCV](https://img.shields.io/badge/OpenCV-0b1d4d?style=for-the-badge&logo=opencv&logoColor=7fd0ff&labelColor=050a1f)
-![MLflow](https://img.shields.io/badge/MLflow-0b1d4d?style=for-the-badge&logo=mlflow&logoColor=7fd0ff&labelColor=050a1f)
-
-**Tools**
-
-![Docker](https://img.shields.io/badge/Docker-0b1d4d?style=for-the-badge&logo=docker&logoColor=7fd0ff&labelColor=050a1f)
-![Git](https://img.shields.io/badge/Git-0b1d4d?style=for-the-badge&logo=git&logoColor=7fd0ff&labelColor=050a1f)
+<img src="assets/stack5.svg" alt="Tools" width="100%"/>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="60%"/></p>
 
