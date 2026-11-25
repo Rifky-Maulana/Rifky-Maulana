@@ -93,7 +93,13 @@ I turn messy business data into forecasts, analyses, and dashboards that drive r
 
 [![View All Certificates on LinkedIn](https://img.shields.io/badge/View_All_Certificates_on-LinkedIn-0b1d4d?style=for-the-badge&logo=linkedin&logoColor=7fd0ff&labelColor=050a1f)](https://www.linkedin.com/in/rifky-maulana-pasaribu/details/certifications/)
 
-- **Laskar AI Scholarship Program** (2025): Machine Learning & MLOps
+| Certificate | Issuer | Year |
+|---|---|---|
+| **Google Advanced Data Analytics Professional Certificate**: statistics, regression, machine learning, capstone | Google | 2026 |
+| **SQL for Data Science Specialization**: SQL for Data Science, SQL Problem Solving, capstone project | University of California, Davis | 2026 |
+| **End-to-End Data Skills**: SQL, visualization & predictive modeling | DQLab | 2026 |
+| **Hackathon**: Retail Crisis & Recovery Visualization Challenge using Python | DQLab | 2026 |
+| **Laskar AI Scholarship Program**: machine learning & MLOps | Laskar AI | 2025 |
 
 <p align="center"><img src="assets/divider.svg" alt="" width="60%"/></p>
 
