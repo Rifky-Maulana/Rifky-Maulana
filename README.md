@@ -96,7 +96,7 @@ I turn messy business data into forecasts, analyses, and dashboards that drive r
 | Certificate | Issuer | Year |
 |---|---|---|
 | **Google Advanced Data Analytics Professional Certificate**: statistics, regression, machine learning, capstone | Google | 2026 |
-| **SQL for Data Science Specialization**: SQL for Data Science, SQL Problem Solving, capstone project | University of California, Davis | 2026 |
+| **SQL for Data Science series**: SQL for Data Science, SQL Problem Solving, Capstone Project | University of California, Davis | 2026 |
 | **End-to-End Data Skills**: SQL, visualization & predictive modeling | DQLab | 2026 |
 | **Hackathon**: Retail Crisis & Recovery Visualization Challenge using Python | DQLab | 2026 |
 | **Laskar AI Scholarship Program**: machine learning & MLOps | Laskar AI | 2025 |
