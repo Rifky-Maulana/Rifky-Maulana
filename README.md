@@ -2,9 +2,9 @@
 
 # Hi, I'm Rifky Maulana Pasaribu
 
-**Data Analyst · Automation & AI Engineer · Open for Freelance**
+**Data Scientist · Data Analyst · Automation & AI · Open for Freelance**
 
-I turn messy business data into clean reports, dashboards, automated workflows, and AI tools that people actually use.
+I turn messy business data into forecasts, analyses, and dashboards that drive real decisions in production, inventory, and business planning.
 
 [![Open for Freelance](https://img.shields.io/badge/Open_for-Freelance_Projects-2ea44f?style=for-the-badge)](mailto:rifkymp0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifky-maulana-pasaribu)
@@ -18,11 +18,24 @@ I turn messy business data into clean reports, dashboards, automated workflows, 
 
 ## About Me
 
-- Data analyst with hands-on experience building **internal business systems**, so I know where the data comes from, not just how to chart it
+- Data scientist in the **manufacturing industry**: demand forecasting, production planning, inventory control, and market research
 - Build **workflow automations** and **AI-powered tools** that connect apps, databases, and spreadsheets so repetitive work runs on its own
 - Background in **machine learning & MLOps** (Laskar AI Scholarship Program, 2025)
 - D3 Informatics Management, **Politeknik Negeri Medan**
 - Currently building: an end-to-end **e-commerce analytics dashboard** (Olist dataset, Power BI)
+
+---
+
+## Industry Work
+
+*Done for a medical device manufacturer. Company data is confidential, so only the approach is shown here.*
+
+- **Best Estimate (BE) Forecasting Model**: machine learning model that predicts the best-estimate demand for a manufactured product. The BE is the baseline for the company's **Business Plan (BP)**
+- **Demand Analysis & Production Planning**: translated demand forecasts into a production plan, so output matches what the market actually needs
+- **Warehouse Min-Max Analysis**: calculated minimum and maximum stock levels per item, so inventory reports can be monitored and controlled against clear thresholds
+- **Syringe Market Research (Indonesia)**: collected and analyzed national syringe sales data to size the market and benchmark against competitors
+- **Hospital Dataset (Indonesia)**: collected a nationwide dataset of hospitals, including bed capacity and facility details, and analyzed it for market targeting. *Public release on Kaggle coming soon*
+- **Commodity Price Analysis**: nickel & stainless steel price analysis to support raw-material purchasing decisions
 
 ---
 
@@ -31,12 +44,13 @@ I turn messy business data into clean reports, dashboards, automated workflows, 
 | Service | What you get |
 |---|---|
 | **Data Cleaning & Excel Automation** | Messy spreadsheets turned into clean, consistent data, with formulas and templates your team can reuse |
+| **Demand Forecasting & Planning** | Sales forecasts that feed production plans, stock targets, and business plans |
+| **Inventory Optimization** | Min-max stock levels per item so warehouse reports can flag overstock and shortages |
 | **Dashboards & Reporting** | Sales, stock, or operations dashboards in Power BI, Looker Studio, or Streamlit |
 | **Workflow Automation** | n8n / Make / Zapier workflows that sync apps, send reports, and remove manual copy-paste |
 | **AI Integration** | Chatbots and assistants that answer questions from your own data, using LLM APIs and RAG |
 | **Data Pipelines & Warehousing** | Moving data from spreadsheets and apps into Snowflake, BigQuery, or PostgreSQL, ready for analysis |
-| **Machine Learning Models** | Classification, recommendation, and NLP models, from notebook to deployment |
-| **Small Business Web Apps** | Simple internal tools for attendance, orders, invoices, and stock |
+| **Machine Learning Models** | Forecasting, classification, recommendation, and NLP models, from notebook to deployment |
 
 ---
 
@@ -86,23 +100,10 @@ I turn messy business data into clean reports, dashboards, automated workflows, 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-**Web & Tools**
+**Tools**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## Real-World Work
-
-*Built for a company, so the source code is private.*
-
-- **Sales Management System**: web app in daily use for sales attendance with GPS map check-in, orders, invoices, and stock tracking
-- **Warehouse System**: stock and warehouse management
-- **Business Analysis**: commodity price analysis (nickel & stainless steel) and product demand estimates to support purchasing decisions
 
 ---
 
@@ -150,7 +151,7 @@ I turn messy business data into clean reports, dashboards, automated workflows, 
 
 <div align="center">
 
-### Have data or a workflow that needs sorting out? Let's talk.
+### Have data that needs a forecast, an analysis, or a model? Let's talk.
 
 [![Email me](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifkymp0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifky-maulana-pasaribu)
