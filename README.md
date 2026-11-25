@@ -91,7 +91,7 @@ I turn messy business data into forecasts, analyses, and dashboards that drive r
 
 <img src="assets/h6.svg" alt="VI. Certifications" height="44"/>
 
-[![View All Certificates](https://img.shields.io/badge/View_All_Certificates-0b1d4d?style=for-the-badge&logoColor=7fd0ff&labelColor=050a1f)](https://drive.google.com/drive/folders/1IE0cePdUoLkxP4qiwt8skkPfxJt229Bb?usp=sharing)
+[![View All Certificates on LinkedIn](https://img.shields.io/badge/View_All_Certificates_on-LinkedIn-0b1d4d?style=for-the-badge&logo=linkedin&logoColor=7fd0ff&labelColor=050a1f)](https://www.linkedin.com/in/rifky-maulana-pasaribu/details/certifications/)
 
 - **Laskar AI Scholarship Program** (2025): Machine Learning & MLOps
 
