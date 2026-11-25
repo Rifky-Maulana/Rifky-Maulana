@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rifky Maulana Pasaribu
-
-**Data Scientist · Data Analyst · Automation & AI · Open for Freelance**
+<img src="assets/banner.svg" alt="Rifky Maulana banner" width="100%"/>
 
 I turn messy business data into forecasts, analyses, and dashboards that drive real decisions in production, inventory, and business planning.
 
@@ -10,13 +8,13 @@ I turn messy business data into forecasts, analyses, and dashboards that drive r
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifky-maulana-pasaribu)
 [![Email](https://img.shields.io/badge/Email-rifkymp0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifkymp0@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rifky-maulana&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=rifky-maulana&color=2aa8ff&style=flat-square)
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"/></p>
 
-## About Me
+## <sub>I</sub> &nbsp; About Me
 
 - Data scientist in the **manufacturing industry**: demand forecasting, production planning, inventory control, and market research
 - Build **workflow automations** and **AI-powered tools** that connect apps, databases, and spreadsheets so repetitive work runs on its own
@@ -24,9 +22,9 @@ I turn messy business data into forecasts, analyses, and dashboards that drive r
 - D3 Informatics Management, **Politeknik Negeri Medan**
 - Currently building: an end-to-end **e-commerce analytics dashboard** (Olist dataset, Power BI)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"/></p>
 
-## Industry Work
+## <sub>II</sub> &nbsp; Industry Work
 
 *Done for a medical device manufacturer. Company data is confidential, so only the approach is shown here.*
 
@@ -37,9 +35,9 @@ I turn messy business data into forecasts, analyses, and dashboards that drive r
 - **Hospital Dataset (Indonesia)**: collected a nationwide dataset of hospitals, including bed capacity and facility details, and analyzed it for market targeting. *Public release on Kaggle coming soon*
 - **Commodity Price Analysis**: nickel & stainless steel price analysis to support raw-material purchasing decisions
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"/></p>
 
-## What I Can Help You With
+## <sub>III</sub> &nbsp; What I Can Help You With
 
 | Service | What you get |
 |---|---|
@@ -52,9 +50,9 @@ I turn messy business data into forecasts, analyses, and dashboards that drive r
 | **Data Pipelines & Warehousing** | Moving data from spreadsheets and apps into Snowflake, BigQuery, or PostgreSQL, ready for analysis |
 | **Machine Learning Models** | Forecasting, classification, recommendation, and NLP models, from notebook to deployment |
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"/></p>
 
-## Tech Stack
+## <sub>IV</sub> &nbsp; Tech Stack
 
 **Data & Analytics**
 
@@ -105,9 +103,9 @@ I turn messy business data into forecasts, analyses, and dashboards that drive r
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"/></p>
 
-## Featured Projects
+## <sub>V</sub> &nbsp; Featured Projects
 
 ### Data Analytics
 
@@ -128,26 +126,26 @@ I turn messy business data into forecasts, analyses, and dashboards that drive r
 | [Pinterest Review Sentiment](https://github.com/Rifky-Maulana/Analisis_Sentimen_pinterest) | Sentiment classification of app reviews | Python, NLP |
 | [Fruit Image Classifier](https://github.com/Rifky-Maulana/Klasifikasi_gambar_buah) | Multi-class fruit recognition with CNN | TensorFlow, Keras |
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"/></p>
 
-## Certifications
+## <sub>VI</sub> &nbsp; Certifications
 
 [![View All Certificates](https://img.shields.io/badge/View_All_Certificates-FFD700?style=for-the-badge&logoColor=black)](https://drive.google.com/drive/folders/1IE0cePdUoLkxP4qiwt8skkPfxJt229Bb?usp=sharing)
 
 - **Laskar AI Scholarship Program** (2025): Machine Learning & MLOps
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"/></p>
 
-## GitHub Stats
+## <sub>VII</sub> &nbsp; GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rifky-maulana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifky-maulana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rifky-maulana&show_icons=true&bg_color=050a1f&title_color=7fd0ff&text_color=cde9ff&icon_color=2aa8ff&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifky-maulana&layout=compact&langs_count=8&bg_color=050a1f&title_color=7fd0ff&text_color=cde9ff&icon_color=2aa8ff&hide_border=true"/>
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"/></p>
 
 <div align="center">
 
